@@ -1,0 +1,26 @@
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #ddd; }
+
+.main {
+  padding-top: 50px; }
+
+.form {
+  padding-top: 10px;
+  width: 300px; }
+  .form input {
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px; }
+  .form button {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    background: rgba(240, 128, 128, 0.7);
+    border-style: none; }
+    .form button:hover {
+      background: lightcoral; }
+
+/*# sourceMappingURL=custom.css.map */
